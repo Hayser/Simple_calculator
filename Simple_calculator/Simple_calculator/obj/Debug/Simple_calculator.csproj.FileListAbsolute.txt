@@ -1,0 +1,7 @@
+C:\Users\Hayser\source\repos\Simple_calculator\Simple_calculator\bin\Debug\Simple_calculator.exe.config
+C:\Users\Hayser\source\repos\Simple_calculator\Simple_calculator\bin\Debug\Simple_calculator.exe
+C:\Users\Hayser\source\repos\Simple_calculator\Simple_calculator\bin\Debug\Simple_calculator.pdb
+C:\Users\Hayser\source\repos\Simple_calculator\Simple_calculator\obj\Debug\Simple_calculator.csprojAssemblyReference.cache
+C:\Users\Hayser\source\repos\Simple_calculator\Simple_calculator\obj\Debug\Simple_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hayser\source\repos\Simple_calculator\Simple_calculator\obj\Debug\Simple_calculator.exe
+C:\Users\Hayser\source\repos\Simple_calculator\Simple_calculator\obj\Debug\Simple_calculator.pdb
